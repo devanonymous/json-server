@@ -1,0 +1,68 @@
+{ 
+    "entries": [
+        {
+            "img": "images.images.ex1",
+            "name": "Exampe1",
+            "addData": "21.04.2009",
+            "type": "movie",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "THIS",
+            "addData": "21.04.2009",
+            "type": "movie",
+            "genre": "horror",
+            "category": "favorite",f
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "THIS",
+            "addData": "21.04.2009",
+            "type": "book",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "THIS",
+            "addData": "21.04.2009",
+            "type": "movie",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "THIS",
+            "addData": "21.04.2009",
+            "type": "game",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "Game of thrones",
+            "addData": "21.04.2009",
+            "type": "movie",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "Call of duty",
+            "addData": "21.04.2009",
+            "type": "game",
+            "genre": "horror",
+            "category": "favorite",
+        },
+        {
+            "img": "images.images.ex1",
+            "name": "1984",
+            "addData": "21.04.2009",
+            "type": "book",
+            "genre": "horror",
+            "category": "favorite",
+        }
+    ]
+}
